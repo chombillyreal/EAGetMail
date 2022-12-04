@@ -1,5 +1,5 @@
 # EAGetMail
-Download attachments.
+Download mail attachments.
 
 
 Download program.cs and add  your project.
