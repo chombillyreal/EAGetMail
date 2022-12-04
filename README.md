@@ -4,5 +4,4 @@ Download attachments.
 
 Download program.cs and add  your project.
 
-
-Remember this "your gmail" , "your password" change.
+Don't forget to change "your gmail" , "your password".
