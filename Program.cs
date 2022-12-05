@@ -50,7 +50,7 @@ namespace Client {
             } catch(Exception ep) {
                 Console.WriteLine(ep.Message);
             }
-            Console.WriteLine("Mailler indirildi.");
+            Console.WriteLine("Emails have been downloaded.");
 
             Console.ReadLine();
         }
