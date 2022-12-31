@@ -46,11 +46,12 @@ namespace Client {
                         }
                     }
                 }
+                Console.WriteLine("Emails have been downloaded.");
                 oClient.Quit();
             } catch(Exception ep) {
                 Console.WriteLine(ep.Message);
             }
-            Console.WriteLine("Emails have been downloaded.");
+            
 
             Console.ReadLine();
         }
